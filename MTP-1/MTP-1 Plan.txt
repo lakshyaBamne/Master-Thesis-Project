@@ -1,0 +1,23 @@
+Masters Thesis Project - 1 (Planning and broad milestones)
+
+- Code 5 pair of numerical schemes for the Euler Equations of Gas Dynamics
+- In each of the 5 pairs we have a serial and a parallel version of the same scheme
+- Compare the serial and parallel performance of the schemes for the same quality of solution
+(i.e. same number of grid points)
+- Maintain notes and Latex report every week for the MTP Presentation to avoid doing it during placements)
+
+1D
+-> Review System of Euler Equations for gas dynamics for 1D
+-> Lax Friedrichs Scheme - 1st order serial for 1D
+-> Lax Friedrichs Scheme - 1st order parallel for 1D
+-> Local Lax Friedrichs Scheme - 1st order serial for 1D
+-> Local Lax Friedrichs Scheme - 1st order parallel for 1D
+-> Old Central Upwind Scheme - 2nd order serial for 1D
+-> Old Central Upwind Scheme - 2nd order parallel for 1D
+
+2D
+-> Review System of Euler Equations for gas dynamics for 2D
+-> Local Lax Friedrichs Scheme - 1st order serial for 2D
+-> Local Lax Friedrichs Scheme - 1st order parallel for 2D
+-> Old Central Upwind Scheme - 2nd order serial for 2D
+-> Old Central Upwind Scheme - 2nd order parallel for 2D
