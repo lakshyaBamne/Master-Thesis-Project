@@ -1,0 +1,14 @@
+.vscode/
+__pycache__/
+venv/
+env/
+.venv/
+.env/
+
+*.exe
+*.x
+*.out
+*.txt
+
+prof_codes/
+test_codes/
